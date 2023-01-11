@@ -30,9 +30,11 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>&nbsp;&nbsp;
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbeenn97)](https://solved.ac/bbeenn97/)  
+	
+	
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbeenn97)](https://solved.ac/bbeenn97/)
 <!--
 **WonseokHahn/WonseokHahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
